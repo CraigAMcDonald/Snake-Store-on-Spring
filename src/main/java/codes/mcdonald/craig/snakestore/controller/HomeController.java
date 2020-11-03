@@ -12,5 +12,4 @@ public class HomeController {
 	public String getHome() {
 		return "Hello, from the Snake Store on Spring";
 	}
-
 }
