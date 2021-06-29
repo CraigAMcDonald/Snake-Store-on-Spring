@@ -25,3 +25,8 @@ hs_err_pid*
 target/
 .settings/
 .project
+
+# Nodejs
+node_modules/
+package-lock.json
+*.log
